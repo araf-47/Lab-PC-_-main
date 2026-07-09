@@ -1,3 +1,6 @@
+
+#hasToDo 
+*** 
 - [ ] learn about directive.
 - [ ] learn about one way data binding.
 - [ ] what is `ngModel`
@@ -26,3 +29,23 @@ expressions only runs on components.
 	- component is self is a small application (a component has it's own html, css, js).
 
 ## chapter 12: Using Events and forms
+> sir made two input field . when I click the button it adds them in a table below.
+
+### Using the Event Binding
+- binding a method of a component with an html event. one event one method binding.
+	- method or statement.
+### Using Event Data
+> on hover table row background change.
+
+
+>inside `app.ts`
+```ts
+  eventData: string = '';
+}
+```
+> inside the `app.html`
+```ts
+<input type="text" (input)="eventData = $event.target.value" placeholder="Enter something..." />
+<p>You entered: {{ eventData }}</p>
+```
+
