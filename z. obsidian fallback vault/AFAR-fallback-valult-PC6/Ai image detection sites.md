@@ -1,0 +1,3 @@
+- https://isitai.com/ai-image-detector
+- https://deepai.org/ai-image-detector
+- https://sightengine.com/detect-ai-generated-images
