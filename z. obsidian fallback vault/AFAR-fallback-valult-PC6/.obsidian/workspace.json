@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "crud with tomcat 9. something"
             }
+          },
+          {
+            "id": "10847f66ec6d08c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning CRUD with Tomcat (cG) roadmap (draft)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Angular (11-07-2026).md",
+                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of class Angular (11-07-2026)"
+              "title": "Outline of learning CRUD with Tomcat (cG) roadmap (draft)"
             }
           },
           {
@@ -174,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Angular (11-07-2026).md",
+                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of class Angular (11-07-2026)"
+              "title": "Graph of learning CRUD with Tomcat (cG) roadmap (draft)"
             }
           }
         ],
@@ -315,8 +330,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f69c20dff1f80f0",
+  "active": "10847f66ec6d08c9",
   "lastOpenFiles": [
+    "12 hours roadmap to CRUD with tomcat (cG).md",
+    "learning CRUD with Tomcat (cG) roadmap (draft).md",
+    "24 hours roadmap to CRUD with tomcat (cG).md",
     "crud with tomcat 9. something.md",
     "class Angular (11-07-2026).md",
     "class Angular (09-07-2026).md",
@@ -340,9 +358,6 @@
     "class JSP (29-06-2026).md",
     "class JSP (28-06-2026).md",
     "UML MCQ exam Mid.md",
-    "Cline (free AI agent).md",
-    "3-Day Intensive UML learning Mastery Plan focused entirely on System Modeling.md",
-    "class UML (27-06-2026).md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]
