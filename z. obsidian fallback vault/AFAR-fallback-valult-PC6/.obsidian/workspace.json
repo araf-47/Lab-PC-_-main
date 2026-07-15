@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f69c20dff1f80f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Angular (11-07-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Angular (11-07-2026)"
-            }
-          },
-          {
-            "id": "ae7415cc7cf37d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crud with tomcat 9. something.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "crud with tomcat 9. something"
-            }
-          },
-          {
             "id": "10847f66ec6d08c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
+                "file": "class Angular (15-07-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning CRUD with Tomcat (cG) roadmap (draft)"
+              "title": "class Angular (15-07-2026)"
+            }
+          },
+          {
+            "id": "c50def461a529102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gemini api key (in Class experience).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gemini api key (in Class experience)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
+                "file": "class Angular (15-07-2026).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of learning CRUD with Tomcat (cG) roadmap (draft)"
+              "title": "Outline of class Angular (15-07-2026)"
             }
           },
           {
@@ -156,8 +141,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f942566f98853713",
@@ -189,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "learning CRUD with Tomcat (cG) roadmap (draft).md",
+                "file": "class Angular (15-07-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of learning CRUD with Tomcat (cG) roadmap (draft)"
+              "title": "Graph of class Angular (15-07-2026)"
             }
           }
         ],
@@ -332,11 +316,14 @@
   },
   "active": "10847f66ec6d08c9",
   "lastOpenFiles": [
-    "12 hours roadmap to CRUD with tomcat (cG).md",
-    "learning CRUD with Tomcat (cG) roadmap (draft).md",
-    "24 hours roadmap to CRUD with tomcat (cG).md",
+    "gemini api key (in Class experience).md",
+    "class Angular (15-07-2026).md",
+    "Araf.md",
     "crud with tomcat 9. something.md",
     "class Angular (11-07-2026).md",
+    "learning CRUD with Tomcat (cG) roadmap (draft).md",
+    "12 hours roadmap to CRUD with tomcat (cG).md",
+    "24 hours roadmap to CRUD with tomcat (cG).md",
     "class Angular (09-07-2026).md",
     "class Angular (08-07-2026).md",
     "class Angular (07-07-2026).md",
@@ -355,9 +342,6 @@
     "class JSP (01-07-2026).md",
     "in exam playfield UML Mid.md",
     "class JSP (30-06-2026).md",
-    "class JSP (29-06-2026).md",
-    "class JSP (28-06-2026).md",
-    "UML MCQ exam Mid.md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]
