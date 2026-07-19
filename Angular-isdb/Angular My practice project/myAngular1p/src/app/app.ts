@@ -10,5 +10,8 @@ import { Header } from "./header/header";
 })
 export class App {
   protected readonly title = signal('myAngular1p');
-  time: string = "7:00 PM"
+  time: string = new Date().toLocaleTimeString('en-US', { 
+    hour: '2-digit', 
+    minute: '2-digit' 
+  });
 }
