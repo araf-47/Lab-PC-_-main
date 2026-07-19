@@ -12,6 +12,12 @@ module is like a subsystem. It itself is an application.
 
 
 ## Angular router.
+it is an in app navigation tool.
+route definition
+module routes have child routing
+router needs a router templet called `<router-outlet>` ; this is a built in component 
+
+in html use `<a routerLink=" "> </a>` to connect the router's path. 
 
 ## Angular authentication
 json web token

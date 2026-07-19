@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "beddb9008718a2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c29c37f36f900ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e81ec24fb6f5c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 2.6 (Angular CLI Component Generation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2.6 (Angular CLI Component Generation)"
+            }
+          },
+          {
+            "id": "9a833b40219e34e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 2.7 (Component Lifecycle).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2.7 (Component Lifecycle)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "196d165cdd484eb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12856f7fac781c7c",
+        "type": "tabs",
+        "dimension": 61.66180758017493,
+        "children": [
+          {
+            "id": "79fcd3c7b0bdeab0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3535f776a9d11f94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88587944ab470f46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b3dc9afc33cdd3e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lesson 2.7 (Component Lifecycle).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lesson 2.7 (Component Lifecycle)"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "054297debe40f69b",
+        "type": "tabs",
+        "dimension": 38.33819241982507,
+        "children": [
+          {
+            "id": "dfa18720716d66ed",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lesson 2.7 (Component Lifecycle).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012111,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Lesson 2.7 (Component Lifecycle)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "b41fd91d5c9c7153",
+    "type": "split",
+    "children": [
+      {
+        "id": "1484599755f35d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65f07c0cd76189a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 5 - (part 2) Tuples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Module 5 - (part 2) Tuples"
+            }
+          },
+          {
+            "id": "7a449ceb5e4fb072",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 5 - (part 2) Tuples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Module 5 - (part 2) Tuples"
+            }
+          },
+          {
+            "id": "48d00187b2d18d66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "130d2202727a32b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "488f7e1855dd3104",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 5 - (part 2) Tuples.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 5 - (part 2) Tuples"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3dc9afc33cdd3e9",
+  "lastOpenFiles": [
+    "Lesson 2.6 (Angular CLI Component Generation).md",
+    "Lesson 2.7 (Component Lifecycle).md",
+    "Lesson 2.5 (Component Styles).md",
+    "Lesson 2.4 (Component Template).md",
+    "Lesson 2.3 (Component Selector).md",
+    "Lesson 2.2 (Component Metadata).md",
+    "Lesson 2.1 (What is a Component).md",
+    "Welcome.md",
+    "Module 5 - (part 2) Tuples.md",
+    "Module 5 - Arrays & Tuples.md",
+    "Module 4 - Special Types.md",
+    "Module 3.md"
+  ]
+}
