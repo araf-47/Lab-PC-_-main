@@ -19,6 +19,7 @@ router needs a router templet called `<router-outlet>` ; this is a built in comp
 
 in html use `<a routerLink=" "> </a>` to connect the router's path. 
 
+life cycle methods = for ex - `ngOnInIt()`
 ## Angular authentication
 json web token
 ### interceptor
