@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Angular (19-07-2026).md",
+                "file": "class Angular (20-07-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Angular (19-07-2026)"
+              "title": "class Angular (20-07-2026)"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Resp 2.0 -  what next (proj.brStorm.isdb)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+                "file": "class Angular (20-07-2026).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resp 2.0 -  what next (proj.brStorm.isdb)"
+              "title": "Outline of class Angular (20-07-2026)"
             }
           },
           {
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+                "file": "class Angular (20-07-2026).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resp 2.0 -  what next (proj.brStorm.isdb)"
+              "title": "Backlinks for class Angular (20-07-2026)"
             }
           },
           {
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+                "file": "class Angular (20-07-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,12 +197,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1846232622585799,
+                  "scale": 0.18462326225857975,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Resp 2.0 -  what next (proj.brStorm.isdb)"
+              "title": "Graph of class Angular (20-07-2026)"
             }
           }
         ],
@@ -316,14 +315,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "4236f7e85069ee0c",
+  "active": "10847f66ec6d08c9",
   "lastOpenFiles": [
     "Project brainstorm (IsDB) main.md",
+    "class Angular (20-07-2026).md",
+    "class Angular (19-07-2026).md",
     "Resp 2.0 -  what next (proj.brStorm.isdb).md",
     "Resp. 1 (proj.brStorm.isdb).md",
     "Landlord Management system (brainstorm).md",
-    "class Angular (20-07-2026).md",
-    "class Angular (19-07-2026).md",
     "class Angular (18-07-2026).md",
     "class Angular (16-07-2026).md",
     "Angular learning brainstorm.md",

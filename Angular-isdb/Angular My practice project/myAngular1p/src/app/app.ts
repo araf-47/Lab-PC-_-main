@@ -14,4 +14,6 @@ export class App {
     hour: '2-digit', 
     minute: '2-digit' 
   });
+
+  course = "Angular Basics";
 }
