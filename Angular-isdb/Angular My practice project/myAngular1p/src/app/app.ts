@@ -16,4 +16,6 @@ export class App {
   });
 
   course = "Angular Basics";
+  
+  imgLink: string = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU1dncycmJzcnVwcjd4cmw3eWIydDI5YmRhZmYwMDE0eDhpcDJwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cl2PsDEg80omBDkq8G/giphy.gif";
 }
