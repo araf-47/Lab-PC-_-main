@@ -11,8 +11,8 @@ export class Header implements OnInit {
     console.log("=================================");
     console.log("Header initialized");
     console.log("=================================");
-    console.log('Current time:', new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }));
-    console.log('Current date:', new Date().toLocaleDateString('en-US', { year: 'numeric', month: '2-digit', day: '2-digit' }));
-    console.log("=================================");
+    // console.log('Current time:', new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }));
+    // console.log('Current date:', new Date().toLocaleDateString('en-US', { year: 'numeric', month: '2-digit', day: '2-digit' }));
+    // console.log("=================================");
   }
 }

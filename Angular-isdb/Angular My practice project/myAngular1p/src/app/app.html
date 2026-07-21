@@ -27,5 +27,26 @@
 
     <app-header></app-header>
 
+    <hr>
+
+    <app-try-class></app-try-class>
+
+    <hr>
+
+    <h3>Property Binding</h3>
+    <input [value]="userName"> <span> ==> </span>
+    <button [disabled]="isDisable" (click)="onSubmit()">Submit</button>
+
+    <hr>
+
+    <h3>Event Binding</h3>
+    <button (click)="askName()">Click me</button>
+    <br>
+    <br>
+    <br>
+    <span>
+    <span>You said Allahuakber <span class="count">{{ count }}</span> times.</span> <span><button (click)="incrementCount()">Allahuakber</button></span> <span><button (click)="decrementCount()">-1</button></span> <span><button (click)="resetCount()">Reset</button></span> 
+    </span>
+
 </body>
 </html>
