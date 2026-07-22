@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Angular (21-07-2026).md",
+                "file": "class Angular (22-07-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Angular (21-07-2026)"
+              "title": "class Angular (22-07-2026)"
             }
           },
           {
@@ -122,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Angular (21-07-2026).md",
+                "file": "class Angular (22-07-2026).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of class Angular (21-07-2026)"
+              "title": "Outline of class Angular (22-07-2026)"
             }
           },
           {
@@ -141,8 +141,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f942566f98853713",
@@ -174,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Angular (21-07-2026).md",
+                "file": "class Angular (22-07-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of class Angular (21-07-2026)"
+              "title": "Graph of class Angular (22-07-2026)"
             }
           }
         ],
@@ -315,13 +314,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "10847f66ec6d08c9",
+  "active": "03ea780d05aa95c2",
   "lastOpenFiles": [
-    "class Angular (20-07-2026).md",
+    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+    "class Angular (22-07-2026).md",
+    "class Spring Boot (22-07-2026).md",
     "class Angular (21-07-2026).md",
+    "class Angular (20-07-2026).md",
     "Project brainstorm (IsDB) main.md",
     "class Angular (19-07-2026).md",
-    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
     "Resp. 1 (proj.brStorm.isdb).md",
     "Landlord Management system (brainstorm).md",
     "class Angular (18-07-2026).md",
@@ -341,8 +342,6 @@
     "class TypeScript (06-07-2026).md",
     "class TypeScript (05-07-2026).md",
     "class Java (07-05-2026).md",
-    "class Java (06-05-2026).md",
-    "class Typescript (04-07-2026).md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]
