@@ -13,29 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Angular (22-07-2026).md",
+                "file": "class Angular (23-07-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Angular (22-07-2026)"
+              "title": "class Angular (23-07-2026)"
             }
           },
           {
-            "id": "4236f7e85069ee0c",
+            "id": "64f91cfb8ce831f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+                "file": "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resp 2.0 -  what next (proj.brStorm.isdb)"
+              "title": "Module 4 updated roadmap (angular 3d)"
+            }
+          },
+          {
+            "id": "4b036eb91978c8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 4.1 — What are Directives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 4.1 — What are Directives"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class uml (14-06-2026).md",
+                "file": "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of class uml (14-06-2026)"
+              "title": "Graph of Module 4 updated roadmap (angular 3d)"
             }
           },
           {
@@ -122,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Angular (22-07-2026).md",
+                "file": "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of class Angular (22-07-2026)"
+              "title": "Outline of Module 4 updated roadmap (angular 3d)"
             }
           },
           {
@@ -141,7 +156,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f942566f98853713",
@@ -173,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Angular (22-07-2026).md",
+                "file": "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of class Angular (22-07-2026)"
+              "title": "Graph of Module 4 updated roadmap (angular 3d)"
             }
           }
         ],
@@ -314,10 +330,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "03ea780d05aa95c2",
+  "active": "64f91cfb8ce831f5",
   "lastOpenFiles": [
-    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+    "class Angular (23-07-2026).md",
+    "Lesson 4.1 — What are Directives.md",
+    "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
     "class Angular (22-07-2026).md",
+    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+    "go to Learning with her",
     "class Spring Boot (22-07-2026).md",
     "class Angular (21-07-2026).md",
     "class Angular (20-07-2026).md",
@@ -339,9 +359,6 @@
     "learning CRUD with Tomcat (cG) roadmap (draft).md",
     "12 hours roadmap to CRUD with tomcat (cG).md",
     "24 hours roadmap to CRUD with tomcat (cG).md",
-    "class TypeScript (06-07-2026).md",
-    "class TypeScript (05-07-2026).md",
-    "class Java (07-05-2026).md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]

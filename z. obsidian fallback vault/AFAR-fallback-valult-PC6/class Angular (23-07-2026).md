@@ -1,0 +1,1 @@
+- In exam sir sees activity and class diagram for the project.

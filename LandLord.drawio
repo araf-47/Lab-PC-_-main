@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="E08ldl3h64_mfjeNfYB7">
+    <mxGraphModel dx="1147" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;Money&lt;/div&gt;&lt;div&gt;transaction&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="231" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Info" vertex="1">
+          <mxGeometry height="80" width="80" x="647" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-11" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aBcOD0SnlmPFwM_tdhoU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-10" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="aBcOD0SnlmPFwM_tdhoU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Previous (Due)" vertex="1">
+          <mxGeometry height="60" width="120" x="211" y="689" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="91" width="150" x="401" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-5" parent="aBcOD0SnlmPFwM_tdhoU-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Rant (monthly)" vertex="1">
+          <mxGeometry height="60" width="120" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-6" parent="aBcOD0SnlmPFwM_tdhoU-7" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/integration-patterns/1/Looping_Pattern.svg" value="" vertex="1">
+          <mxGeometry height="43" width="43" x="107" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-9" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="aBcOD0SnlmPFwM_tdhoU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-13" connectable="0" parent="1" style="group" value="        " vertex="1">
+          <mxGeometry height="90" width="148" x="39" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-3" parent="aBcOD0SnlmPFwM_tdhoU-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Payment" vertex="1">
+          <mxGeometry height="60" width="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-12" parent="aBcOD0SnlmPFwM_tdhoU-13" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/integration-patterns/1/Looping_Pattern.svg" value="" vertex="1">
+          <mxGeometry height="43" width="43" x="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-16" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aBcOD0SnlmPFwM_tdhoU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92.17" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-17" connectable="0" parent="aBcOD0SnlmPFwM_tdhoU-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(-)" vertex="1">
+          <mxGeometry relative="1" x="-0.1259" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-18" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="aBcOD0SnlmPFwM_tdhoU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="463.83" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-19" connectable="0" parent="aBcOD0SnlmPFwM_tdhoU-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(+)" vertex="1">
+          <mxGeometry relative="1" x="-0.1685" y="2" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="487" width="786.5" x="32" y="1131" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dashboard" vertex="1">
+          <mxGeometry height="39" width="125" x="61.5" y="1179" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tanents" vertex="1">
+          <mxGeometry height="39" width="125" x="61.5" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payment" vertex="1">
+          <mxGeometry height="39" width="125" x="61.5" y="1317" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Expence" vertex="1">
+          <mxGeometry height="39" width="125" x="61.5" y="1386" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39" width="125" x="61.5" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-28" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="- Property dashboard&lt;br&gt;- Rent collection&lt;br&gt;- Tenant management&lt;br&gt;- Expense tracking&lt;br&gt;- Maintenance&lt;br&gt;- SMS reminders&lt;br&gt;- Analytics" vertex="1">
+          <mxGeometry height="136" width="125" x="208.5" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcOD0SnlmPFwM_tdhoU-30" edge="1" parent="1" source="aBcOD0SnlmPFwM_tdhoU-20" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="aBcOD0SnlmPFwM_tdhoU-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="253.38" y="1407.58" as="sourcePoint" />
+            <mxPoint x="226.0005" y="1227.9969999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
