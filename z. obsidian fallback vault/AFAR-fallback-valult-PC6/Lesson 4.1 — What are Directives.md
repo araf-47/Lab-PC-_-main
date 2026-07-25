@@ -1,3 +1,4 @@
+#uptoObsidian 
 Perfect. From this point onward, **Module 4 officially begins**. We'll ignore the previous partial lessons and treat this as the canonical version. If you ever come back weeks or months later and say:
 
 > "Continue from Module 4, Lesson 4.3."
