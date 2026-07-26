@@ -25,3 +25,16 @@ button {
 .loggedIn {
     color: green;
 }
+
+.pass {
+    color: green;
+    font-weight: bold;
+    background-color: lightgreen;
+    border: 1px solid green;
+}
+.fail {
+    color: red;
+    font-weight: bold;
+    background-color: lightcoral;
+    border: 1px solid red;
+}

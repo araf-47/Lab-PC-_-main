@@ -87,7 +87,14 @@
     </ul>
 
     <h3>Attribute Directives</h3>
-    
+    <p [ngClass]="isPassed ? 'pass' : 'fail'">Exam Result</p>
+    <p [ngClass]="bnResult >= 33 ? 'pass' : 'fail'"> the result is: {{ bnResult }} & the student have <span *ngIf="bnResult >= 33; else failDizz">Passed</span>.</p>
+    <!-- <ng-template #passDizz>
+        <span>Passed</span>
+    </ng-template> -->
+    <ng-template #failDizz>
+        <span>Failed</span>
+    </ng-template>
 
 
 

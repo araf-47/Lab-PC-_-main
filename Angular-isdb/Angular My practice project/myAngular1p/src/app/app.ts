@@ -3,11 +3,12 @@ import { RouterOutlet } from '@angular/router';
 import { Header } from "./header/header";
 import { TryClass } from "./try-class/try-class";
 // import { NgIf } from "../../node_modules/@angular/common/types/_common_module-chunk";
-import { NgIf, NgForOf } from '@angular/common';
+import { NgIf, NgForOf, NgClass } from '@angular/common';
+
 
 @Component({
   selector: 'app-root',
-  imports: [Header, TryClass, NgIf, NgForOf],
+  imports: [Header, TryClass, NgIf, NgForOf, NgClass],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
@@ -67,5 +68,11 @@ export class App {
     "Araf",
     "Asf"
   ];
+
+  //attribute directives
+  //ngClass
+  isPassed = true;
+  bnResult = 20;
+
 
 }
