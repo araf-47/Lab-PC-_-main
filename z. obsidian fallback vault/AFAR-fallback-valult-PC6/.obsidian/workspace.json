@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Angular (23-07-2026).md",
+                "file": "class Ai (26-07-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Angular (23-07-2026)"
+              "title": "class Ai (26-07-2026)"
             }
           },
           {
-            "id": "4b036eb91978c8a0",
+            "id": "e2e80680959dd0ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what is activity diagram (based on my project).md",
+                "file": "go to Learning with her/Lesson 4.6 (ngClass).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what is activity diagram (based on my project)"
+              "title": "Lesson 4.6 (ngClass)"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
+                "file": "go to Learning with her/Lesson 4.6 (ngClass).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +114,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Module 4 updated roadmap (angular 3d)"
+              "title": "Graph of Lesson 4.6 (ngClass)"
             }
           },
           {
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "what is activity diagram (based on my project).md",
+                "file": "go to Learning with her/Lesson 4.6 (ngClass).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of what is activity diagram (based on my project)"
+              "title": "Outline of Lesson 4.6 (ngClass)"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "what is activity diagram (based on my project).md",
+                "file": "go to Learning with her/Lesson 4.6 (ngClass).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of what is activity diagram (based on my project)"
+              "title": "Graph of Lesson 4.6 (ngClass)"
             }
           }
         ],
@@ -316,13 +316,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "15d7b8eda429d05a",
+  "active": "e2e80680959dd0ef",
   "lastOpenFiles": [
-    "class Just (25-07-2026).md",
+    "class Ai (26-07-2026).md",
+    "go to Learning with her/Lesson 4.6 (ngClass).md",
+    "go to Learning with her/Lesson 4.4 (ngFor).md",
+    "go to Learning with her/Lesson 4.5 (Attribute Directives).md",
     "what is activity diagram (based on my project).md",
+    "class Angular (23-07-2026).md",
+    "class Just (25-07-2026).md",
     "Lesson 4.1 — What are Directives.md",
     "go to Learning with her/Module 4 updated roadmap (angular 3d).md",
-    "class Angular (23-07-2026).md",
     "class Angular (22-07-2026).md",
     "Resp 2.0 -  what next (proj.brStorm.isdb).md",
     "go to Learning with her",
@@ -341,10 +345,6 @@
     "class Angular (09-07-2026).md",
     "class Angular (08-07-2026).md",
     "class Angular (07-07-2026).md",
-    "gemini api key (in Class experience).md",
-    "Araf.md",
-    "crud with tomcat 9. something.md",
-    "learning CRUD with Tomcat (cG) roadmap (draft).md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]
