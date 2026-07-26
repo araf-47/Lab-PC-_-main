@@ -72,6 +72,24 @@
         <p>Please login as student.</p>
     </ng-template>
 
+    <h3>ngFor demo</h3>
+    <ul>
+        <li *ngFor="let student of students">
+            <p>{{student}}</p>
+        </li>
+    </ul>
+
+    <p>using index:</p>
+    <ul>
+        <span *ngFor="let student of students; index as i">
+            <p>{{i + 1}}. {{student}}</p>
+        </span>
+    </ul>
+
+    <h3>Attribute Directives</h3>
+    
+
+
 
 </body>
 </html>

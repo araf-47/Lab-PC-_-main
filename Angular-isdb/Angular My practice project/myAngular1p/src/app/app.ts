@@ -3,11 +3,11 @@ import { RouterOutlet } from '@angular/router';
 import { Header } from "./header/header";
 import { TryClass } from "./try-class/try-class";
 // import { NgIf } from "../../node_modules/@angular/common/types/_common_module-chunk";
-import { NgIf } from '@angular/common';
+import { NgIf, NgForOf } from '@angular/common';
 
 @Component({
   selector: 'app-root',
-  imports: [Header, TryClass, NgIf],
+  imports: [Header, TryClass, NgIf, NgForOf],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
@@ -57,5 +57,15 @@ export class App {
   isLogin = true; 
   age = 17;
   isStudent = false;
+
+  //ngFor
+  students = [
+    'Alice',
+    'Bob',
+    'Charlie',
+    'David',
+    "Araf",
+    "Asf"
+  ];
 
 }
