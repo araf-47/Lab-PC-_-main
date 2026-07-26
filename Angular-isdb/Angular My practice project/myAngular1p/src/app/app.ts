@@ -2,10 +2,12 @@ import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Header } from "./header/header";
 import { TryClass } from "./try-class/try-class";
+// import { NgIf } from "../../node_modules/@angular/common/types/_common_module-chunk";
+import { NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-root',
-  imports: [Header, TryClass],
+  imports: [Header, TryClass, NgIf],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
@@ -50,5 +52,10 @@ export class App {
   resetCount() {
     this.count = 0;
   }
+
+  //ngIf
+  isLogin = true; 
+  age = 17;
+  isStudent = false;
 
 }

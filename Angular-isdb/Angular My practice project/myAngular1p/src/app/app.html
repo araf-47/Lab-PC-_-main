@@ -48,5 +48,30 @@
     <span>You said Allahuakber <span class="count">{{ count }}</span> times.</span> <span><button (click)="incrementCount()">Allahuakber</button></span> <span><button (click)="decrementCount()">-1</button></span> <span><button (click)="resetCount()">Reset</button></span> 
     </span>
 
+    <hr>
+
+    <h2>Directives</h2>
+    <h3>*ngIf demo</h3>
+    
+    <p *ngIf="isLogin" class="loggedIn">
+        welcome back, you are logged in.
+    </p>
+
+    <!-- Using expression in *ngIf -->
+    <p *ngIf="age >= 18">
+        He is an Adult.
+    </p>
+    <p *ngIf="age < 18">
+        He is not an Adult.
+    </p>
+
+    <p *ngIf="isStudent; else isNotStudent">
+        Welcome student.
+    </p>
+    <ng-template #isNotStudent>
+        <p>Please login as student.</p>
+    </ng-template>
+
+
 </body>
 </html>
