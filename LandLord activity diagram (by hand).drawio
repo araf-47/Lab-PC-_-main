@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="fYsusBozw8dWGOTbNHfJ">
-    <mxGraphModel dx="2960" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5454" dy="1766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-267" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-264" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-262" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-256" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-242" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-239" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-238" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-222" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-204" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-202" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -299,6 +311,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-212" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-213" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-212" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Maintenance" vertex="1">
+          <mxGeometry relative="1" x="0.9111" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-270" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-271" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-270" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Manage Property" vertex="1">
+          <mxGeometry relative="1" x="0.9452" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-79" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Chose a Module" vertex="1">
           <mxGeometry height="80" width="80" x="392" y="1778" as="geometry" />
         </mxCell>
@@ -308,15 +336,18 @@
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payment Management" vertex="1">
           <mxGeometry height="60" width="120" x="425" y="1919" as="geometry" />
         </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-211" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="1078" y="1931" as="geometry" />
+          <mxGeometry height="60" width="120" x="1263" y="1913" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-84" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="OXhFGHZ_Pehlb2Jhdj65-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-85" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Logout" vertex="1">
           <mxGeometry relative="1" x="-0.3374" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="542" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-103" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-102">
@@ -351,7 +382,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-99" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Register" vertex="1">
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-99" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Register Tenant" vertex="1">
           <mxGeometry relative="1" x="0.613" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -364,12 +395,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-100" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="View" vertex="1">
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-100" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="View Tenant" vertex="1">
           <mxGeometry relative="1" x="0.6576" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-95" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Register / view ?" vertex="1">
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-274" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-275" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-274" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Move out&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Tenants)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.8146" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-95" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Action?" vertex="1">
           <mxGeometry height="80" width="80" x="-405" y="2042" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-105" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-104">
@@ -539,7 +578,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Select Tenant" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2131" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2118.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-180" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-175">
           <mxGeometry relative="1" as="geometry" />
@@ -566,13 +605,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-185" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="System Displays Total Due" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2233" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2220.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-196" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enter Amount Paid" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2405" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2392.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-191" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-189" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-190">
           <mxGeometry relative="1" as="geometry" />
@@ -591,40 +630,292 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-189" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Paid in Full?" vertex="1">
-          <mxGeometry height="80" width="80" x="736" y="2490" as="geometry" />
+          <mxGeometry height="80" width="80" x="680" y="2477.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-199" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mark Invoice as Fully Paid (Balance = 0)" vertex="1">
-          <mxGeometry height="60" width="120" x="633" y="2624" as="geometry" />
+          <mxGeometry height="60" width="120" x="577" y="2611.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-198" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-193" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mark as Partially Paid &amp;amp; Calculate Remaining Balance" vertex="1">
-          <mxGeometry height="60" width="120" x="786" y="2623" as="geometry" />
+          <mxGeometry height="60" width="120" x="730" y="2610.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-201" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-197" parent="1" style="rhombus;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="761" y="2726" as="geometry" />
+          <mxGeometry height="30" width="30" x="705" y="2713.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-203" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save Payment to PostgreSQL" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2784" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2771.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Generate Payment Receipt PDF" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2879" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2866.71" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-207" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OXhFGHZ_Pehlb2Jhdj65-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add payment method (cash / bank / mobile)" vertex="1">
-          <mxGeometry height="60" width="120" x="716" y="2315" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="2302.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-215" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Maintenance Management" vertex="1">
+          <mxGeometry height="60" width="120" x="956" y="1913" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-210" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1308" y="2054" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-217" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-214" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-218" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-217" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Log New Issue&amp;nbsp;&lt;/div&gt;&lt;div&gt;(The Tenant Calls)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2372" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-227" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-214" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-228" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-227" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Update Existing&amp;nbsp;&lt;/div&gt;&lt;div&gt;Issue&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3591" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-214" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Action?" vertex="1">
+          <mxGeometry height="80" width="80" x="976" y="2018" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-223" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-216" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Select Tenant &amp;amp; Unit" vertex="1">
+          <mxGeometry height="60" width="120" x="881" y="2166" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-224" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enter Issue Description" vertex="1">
+          <mxGeometry height="60" width="120" x="881" y="2264" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-225" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set Status to &quot;Pending&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="881" y="2359" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save Ticket to PostgreSQL" vertex="1">
+          <mxGeometry height="60" width="120" x="889" y="2460" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-235" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="View all &quot;Pending&quot; Tickets" vertex="1">
+          <mxGeometry height="60" width="120" x="1104" y="2163" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-236" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Select Specific Ticket" vertex="1">
+          <mxGeometry height="60" width="120" x="1117" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-233" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-230" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Status to &quot;Resolved&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="1108" y="2357.57" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-234" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1057.43" y="2541.05" />
+              <mxPoint x="1057.43" y="3059.81" />
+              <mxPoint x="289.52" y="3059.81" />
+              <mxPoint x="289.52" y="2432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-237" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.9435" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-240" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-241" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-240" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4877" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-232" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Did this repair cost money?" vertex="1">
+          <mxGeometry height="109" width="109" x="1122.5" y="2486.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-239" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save Update" vertex="1">
+          <mxGeometry height="60" width="120" x="1117" y="2676" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-247" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-245" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Property Management" vertex="1">
+          <mxGeometry height="60" width="120" x="-1254" y="1954.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-250" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-246" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-251" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-250" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Add New Property" vertex="1">
+          <mxGeometry relative="1" x="0.3172" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-268" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-246" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-269" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-268" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Manage Units&lt;br&gt;or Apartments" vertex="1">
+          <mxGeometry relative="1" x="-0.023" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-246" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Action?" vertex="1">
+          <mxGeometry height="80" width="80" x="-1234" y="2053.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-254" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-248" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enter Property Information" vertex="1">
+          <mxGeometry height="60" width="120" x="-1365" y="2177.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-255" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-249" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Select Existing Property" vertex="1">
+          <mxGeometry height="60" width="120" x="-1163" y="2177.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-252" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save Property to PostgreSQL" vertex="1">
+          <mxGeometry height="60" width="120" x="-1368" y="2268.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-257" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-258" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-257" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="view" vertex="1">
+          <mxGeometry relative="1" x="0.4973" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-260" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-259">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1222.97" y="2360.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-261" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-260" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Add" vertex="1">
+          <mxGeometry relative="1" x="0.5738" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-253" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Add Unit or View Status?" vertex="1">
+          <mxGeometry height="99" width="99" x="-1188" y="2311.42" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Display list of Units (Vacant vs. Occupied)" vertex="1">
+          <mxGeometry height="60" width="120" x="-1074" y="2415.28" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-265" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-259" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enter Unit Number" vertex="1">
+          <mxGeometry height="60" width="120" x="-1283" y="2436.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-266" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-263" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set Status to &quot;Vacant&quot;" vertex="1">
+          <mxGeometry height="60" width="112" x="-1283" y="2535.28" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-264" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save Unit to PostgreSQL" vertex="1">
+          <mxGeometry height="60" width="120" x="-1287" y="2653.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-292" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-273" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Select Tenant / Unit for Move-Out" vertex="1">
+          <mxGeometry height="60" width="120" x="-780" y="2195" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-293" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-276" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Check Outstanding Balance" vertex="1">
+          <mxGeometry height="60" width="120" x="-780" y="2276" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-294" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-277" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Damage Deductions" vertex="1">
+          <mxGeometry height="60" width="120" x="-780" y="2362.71" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-281" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-278" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-282" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-281" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(Refund)" vertex="1">
+          <mxGeometry relative="1" x="0.2728" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-283" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-278" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-284" connectable="0" parent="OXhFGHZ_Pehlb2Jhdj65-283" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value=" (Final Bill)" vertex="1">
+          <mxGeometry relative="1" x="0.244" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-278" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Refund or Final Bill?" vertex="1">
+          <mxGeometry height="80" width="80" x="-788" y="2462" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-287" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-286">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-814" y="2691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-279" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Calculate Refund Amount" vertex="1">
+          <mxGeometry height="60" width="120" x="-867" y="2588" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-288" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-286">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-642" y="2691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-280" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Generate Final Invoice" vertex="1">
+          <mxGeometry height="60" width="120" x="-704" y="2585" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-291" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Unit Status to &quot;Vacant&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="-780" y="2729" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-289" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OXhFGHZ_Pehlb2Jhdj65-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-286" parent="1" style="rhombus;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="-735" y="2676" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-295" edge="1" parent="1" source="OXhFGHZ_Pehlb2Jhdj65-290" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OXhFGHZ_Pehlb2Jhdj65-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXhFGHZ_Pehlb2Jhdj65-290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Archive Tenant Record&lt;/div&gt;&lt;div&gt;(Changes status in PostgreSQL to inactive, saving their financial history)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="125" x="-780" y="2818" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
