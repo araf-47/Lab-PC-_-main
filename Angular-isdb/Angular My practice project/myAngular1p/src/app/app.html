@@ -96,7 +96,40 @@
         <span>Failed</span>
     </ng-template>
 
+    <p>I like <span [ngClass]="'highlight fail'">not</span> you.</p>
 
+    <p>NgClass used in object:</p>
+    <p>He got <span [ngClass]="{pass: bnResult >= 33, fail: bnResult < 33}">{{bnResult}}</span> in English 101. He <span *ngIf="bnResult >= 33; else failDizz">passed</span></p>
 
+    <table>
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Example row data -->
+            <tr>
+                <td>Alice</td>
+                <td>31</td>
+            </tr>
+            <tr>
+                <td>Bob</td>
+                <td>78</td>
+            </tr>
+            <tr>
+                <td>Charlie</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>Diana</td>
+                <td>99</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>My name is .</p>
+    
 </body>
 </html>

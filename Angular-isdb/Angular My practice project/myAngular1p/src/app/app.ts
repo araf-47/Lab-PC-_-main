@@ -72,7 +72,8 @@ export class App {
   //attribute directives
   //ngClass
   isPassed = true;
-  bnResult = 20;
+  bnResult = 50;
+  
 
 
 }
