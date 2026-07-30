@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Tenant Class Diagram" id="landlord-tenant-class-diagram">
-    <mxGraphModel dx="748" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="t1042" edge="1" parent="1" source="t1004" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=diamondThin;endFill=1;fontSize=10;" target="t1013" value="owns">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="958.57" y="409" />
+              <mxPoint x="958.6" y="390.33" />
             </Array>
           </mxGeometry>
         </mxCell>

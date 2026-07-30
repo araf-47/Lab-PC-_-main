@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Class Diagram" id="landlord-class-diagram">
-    <mxGraphModel dx="3678" dy="1193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3287" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
         <mxCell id="c1023" parent="c1022" style="text;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=4;overflow=hidden;portConstraint=eastwest;whiteSpace=wrap;fontSize=11;" value="&lt;div&gt;+ invoiceId: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ agreementId: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ tenantId: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ baseRent: decimal&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ utilities: decimal&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ previousBalance: decimal&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ totalDue: decimal&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ status: string&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ issueDate: date&lt;/div&gt;" vertex="1">
           <mxGeometry height="198" width="260" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="c1024" parent="c1022" style="text;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=4;overflow=hidden;portConstraint=eastwest;whiteSpace=wrap;fontSize=11;" value="&lt;div&gt;+ generate()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ markPaid()&lt;/div&gt;" vertex="1">
+        <mxCell id="c1024" parent="c1022" style="text;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=4;overflow=hidden;portConstraint=eastwest;whiteSpace=wrap;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div&gt;+ generate()&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ markPaid()&lt;/div&gt;" vertex="1">
           <mxGeometry height="44" width="260" y="228" as="geometry" />
         </mxCell>
         <mxCell id="c1025" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Payment" vertex="1">
