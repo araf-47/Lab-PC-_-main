@@ -114,7 +114,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of class Ai (28-07-2026)"
+              "title": "Outline"
             }
           },
           {
@@ -188,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of class Ai (28-07-2026)"
+              "title": "Local graph"
             }
           }
         ],
