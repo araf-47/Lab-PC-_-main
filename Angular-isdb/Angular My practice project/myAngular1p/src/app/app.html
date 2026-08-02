@@ -129,7 +129,20 @@
         </tbody>
     </table>
 
-    <p>My name is .</p>
+    <!-- @if Modern alternative to *ngIf-->
+    <h3>@ if in Angular -> *ngif alternative</h3>
+    @if (isLoggedin) {
+        <p [ngClass]="'loggedIn'">Welcome back. Good to see you again. You have logged back in successfully.</p>
+    }
+
+    @if (isLoggedin) {
+        <p [ngClass]="'loggedIn'">Welcome back. Good to see you again. You have logged back in successfully.</p>
+    } @else {
+        <p [ngClass]="'fail'">You are not logged-in.</p>
+    }
+
+    
+    
     
 </body>
 </html>

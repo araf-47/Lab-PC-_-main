@@ -40,7 +40,7 @@ button {
 .fail {
     color: red;
     font-weight: bold;
-    background-color: lightcoral;
+    /* background-color: lightcoral; */
     border: 1px solid red;
 }
 

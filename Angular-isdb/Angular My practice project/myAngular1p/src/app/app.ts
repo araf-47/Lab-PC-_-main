@@ -3,12 +3,12 @@ import { RouterOutlet } from '@angular/router';
 import { Header } from "./header/header";
 import { TryClass } from "./try-class/try-class";
 // import { NgIf } from "../../node_modules/@angular/common/types/_common_module-chunk";
-import { NgIf, NgForOf, NgClass } from '@angular/common';
+import { NgIf, NgForOf, NgClass, NgStyle } from '@angular/common';
 
 
 @Component({
   selector: 'app-root',
-  imports: [Header, TryClass, NgIf, NgForOf, NgClass],
+  imports: [Header, TryClass, NgIf, NgForOf, NgClass, NgStyle],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
@@ -73,6 +73,10 @@ export class App {
   //ngClass
   isPassed = true;
   bnResult = 50;
+
+  // @if 
+  isLoggedin = false;
+
   
 
 
