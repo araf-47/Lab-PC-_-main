@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Figma (01-08-2026).md",
+                "file": "class Spring (03-08-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Figma (01-08-2026)"
+              "title": "class Spring (03-08-2026)"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Figma (01-08-2026).md",
+                "file": "class Spring (03-08-2026).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class Angular (20-07-2026).md",
+                "file": "class Spring (03-08-2026).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for class Angular (20-07-2026)"
+              "title": "Backlinks"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Figma (01-08-2026).md",
+                "file": "class Spring (03-08-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225857975,
+                  "scale": 0.3628873693012088,
                   "close": true
                 }
               },
@@ -191,8 +191,7 @@
               "title": "Local graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,6 +302,13 @@
   },
   "active": "10847f66ec6d08c9",
   "lastOpenFiles": [
+    "Claude prompt plugin (save token).md",
+    "suggested claude plugin.md",
+    "class Spring (03-08-2026).md",
+    "How to connect Figma to claude.md",
+    "MCP server.md",
+    "class Figma (01-08-2026).md",
+    "class Spring (03-04-2026).md",
     "class Ai (28-07-2026).md",
     "class Ai (30-07-2026).md",
     "pny xlr 8 price (unbelievable).md",
@@ -323,13 +329,6 @@
     "class Angular (21-07-2026).md",
     "class Angular (20-07-2026).md",
     "Project brainstorm (IsDB) main.md",
-    "class Angular (19-07-2026).md",
-    "Resp. 1 (proj.brStorm.isdb).md",
-    "Landlord Management system (brainstorm).md",
-    "class Angular (18-07-2026).md",
-    "class Angular (16-07-2026).md",
-    "Angular learning brainstorm.md",
-    "class Angular (15-07-2026).md",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
   ]

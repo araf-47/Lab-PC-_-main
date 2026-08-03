@@ -1,0 +1,2 @@
+- draw.io MCP.
+- Playwrite plugin.
