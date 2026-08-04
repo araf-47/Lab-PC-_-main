@@ -6,6 +6,8 @@
 		- **Lombok**: it handles boilerplate code . (like getter, setter).
 		- **Spring Boot Actuator** : server monitoring. 
 		- **Spring Data Redis (Access+Driver)** : cache 
+- generated the Spring project (.zip)
+- extract / 
 
 
 # Exam (Monthly)
@@ -14,4 +16,4 @@
 angular full 
 spring half
 ### evidence:
-project prototype (with Figma)
+Project prototype (with Figma)
