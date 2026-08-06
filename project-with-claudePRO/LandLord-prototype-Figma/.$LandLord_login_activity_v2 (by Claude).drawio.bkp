@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Login Activity Diagram v2" id="landlord-login-activity-v2">
-    <mxGraphModel dx="1570" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1150" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1150" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="50" width="200" x="550" y="90" as="geometry" />
         </mxCell>
         <mxCell id="a2003" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" value="Login or Sign up?" vertex="1">
-          <mxGeometry height="70" width="140" x="440" y="190" as="geometry" />
+          <mxGeometry height="70" width="140" x="580" y="180" as="geometry" />
         </mxCell>
         <mxCell id="a2004" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Select account type (Tenant / Landlord)" vertex="1">
           <mxGeometry height="54" width="240" x="60" y="300" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry height="70" width="180" x="90" y="720" as="geometry" />
         </mxCell>
         <mxCell id="a2010" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Show error — resend code (max 3)" vertex="1">
-          <mxGeometry height="54" width="220" x="400" y="636" as="geometry" />
+          <mxGeometry height="54" width="220" x="340" y="636" as="geometry" />
         </mxCell>
         <mxCell id="a2011" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Create account &amp; assign role" vertex="1">
           <mxGeometry height="54" width="240" x="60" y="830" as="geometry" />
@@ -59,16 +59,22 @@
           <mxGeometry height="54" width="220" x="1090" y="160" as="geometry" />
         </mxCell>
         <mxCell id="a2021" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Send password-reset link" vertex="1">
-          <mxGeometry height="54" width="220" x="1270" y="300" as="geometry" />
+          <mxGeometry height="54" width="220" x="1360" y="260" as="geometry" />
         </mxCell>
         <mxCell id="a2022" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Open link, set new password" vertex="1">
-          <mxGeometry height="54" width="220" x="1270" y="378" as="geometry" />
+          <mxGeometry height="54" width="220" x="1360" y="338" as="geometry" />
         </mxCell>
         <mxCell id="a2023" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Password updated" vertex="1">
           <mxGeometry height="54" width="220" x="1500" y="700" as="geometry" />
         </mxCell>
         <mxCell id="a2024" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="Redirect to role-based dashboard" vertex="1">
           <mxGeometry height="54" width="240" x="560" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="a2026" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="660" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="a2025" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="22" width="22" x="666" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="a2027" edge="1" parent="1" source="a2001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2002" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -110,23 +116,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2040" edge="1" parent="1" source="a2012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2013" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="990.06" y="373.06" />
-              <mxPoint x="928.06" y="373.06" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2041" edge="1" parent="1" source="a2013" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2014" value="No">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2042" edge="1" parent="1" source="a2013" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2019" value="Yes">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1860" y="427" />
-              <mxPoint x="1860" y="897" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2043" edge="1" parent="1" source="a2014" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2015" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -143,24 +139,14 @@
         <mxCell id="a2047" edge="1" parent="1" source="a2019" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2024" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a2048" edge="1" parent="1" source="a2024" style="rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2026" value="">
+        <mxCell id="a2048" edge="1" parent="1" source="a2024" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2026" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2049" edge="1" parent="1" source="a2012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2020" value="Forgot password?">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1050.06" y="257.06" />
-              <mxPoint x="1199.94" y="257.06" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2050" edge="1" parent="1" source="a2020" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2021" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1220" y="257" />
-              <mxPoint x="1380" y="257" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a2051" edge="1" parent="1" source="a2021" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;fontSize=10;" target="a2022" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -183,15 +169,6 @@
           <mxGeometry height="34" width="34" as="geometry" />
         </mxCell>
         <mxCell id="a2017" parent="IoiPXLUkkArIgMDlWOYe-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
-          <mxGeometry height="22" width="22" x="6" y="6" as="geometry" />
-        </mxCell>
-        <mxCell id="4BtMiYC-fjL4g2yuXfWS-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="34" width="34" x="660" y="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="a2026" parent="4BtMiYC-fjL4g2yuXfWS-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="34" width="34" as="geometry" />
-        </mxCell>
-        <mxCell id="a2025" parent="4BtMiYC-fjL4g2yuXfWS-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="22" width="22" x="6" y="6" as="geometry" />
         </mxCell>
       </root>
