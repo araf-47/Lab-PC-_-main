@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude prompt by Arafat sir.md",
+                "file": "x. tmp notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude prompt by Arafat sir"
+              "title": "x. tmp notepad"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Claude prompt by Arafat sir.md",
+                "file": "x. tmp notepad.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Claude prompt by Arafat sir.md",
+                "file": "x. tmp notepad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,13 +303,13 @@
   },
   "active": "747049de5b62166e",
   "lastOpenFiles": [
+    "Claude prompt by Arafat sir.md",
     "Class Spring (06-08-2026).md",
     "Array (1D) in java (Cgpt).md",
     "Reusable software.md",
     "class uml (14-06-2026).md",
     "Gist of UML Generalization.md",
     "Prompt (Landlord claude).md",
-    "Claude prompt by Arafat sir.md",
     "class Spring (04-08-2026) + exam info.md",
     "Spring learning roadmap (Final draft).md",
     "Spring learning roadmap (draft 2.0) (cG re-evaluated).md",
