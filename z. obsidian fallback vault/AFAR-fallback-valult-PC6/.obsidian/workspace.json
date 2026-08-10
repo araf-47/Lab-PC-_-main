@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt (Landlord claude).md",
+                "file": "Landlord Management system (brainstorm).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt (Landlord claude)"
+              "title": "Landlord Management system (brainstorm)"
             }
           }
         ],
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "landlord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,9 +137,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt (Landlord claude).md",
+                "file": "Landlord Management system (brainstorm).md",
                 "followCursor": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -151,13 +151,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f942566f98853713",
@@ -170,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompt (Landlord claude).md",
+                "file": "Landlord Management system (brainstorm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,9 +334,13 @@
   },
   "active": "8b72b12f62dff3da",
   "lastOpenFiles": [
+    "Project brainstorm (IsDB) main.md",
     "Class Spring (06-08-2026).md",
-    "Prompt (Landlord claude).md",
     "Claude prompt by Arafat sir.md",
+    "Landlord Management system (brainstorm).md",
+    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
+    "Resp. 1 (proj.brStorm.isdb).md",
+    "Prompt (Landlord claude).md",
     "class Spring (04-08-2026) + exam info.md",
     "Spring learning roadmap (Final draft).md",
     "Spring learning roadmap (draft 2.0) (cG re-evaluated).md",
@@ -353,10 +360,6 @@
     "lol.md",
     "class Ai (26-07-2026).md",
     "go to Learning with her/Lesson 4.6 (ngClass).md",
-    "go to Learning with her/Lesson 4.4 (ngFor).md",
-    "go to Learning with her/Lesson 4.5 (Attribute Directives).md",
-    "what is activity diagram (based on my project).md",
-    "class Angular (23-07-2026).md",
     "go to Learning with her",
     "sync.ffs_lock",
     "Perfect balanced binary tree (example).canvas"
