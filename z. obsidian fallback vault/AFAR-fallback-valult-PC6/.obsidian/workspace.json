@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude prompt by Arafat sir.md",
+                "file": "x. tmp notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Claude prompt by Arafat sir"
             }
           },
@@ -47,10 +48,12 @@
               },
               "icon": "lucide-file",
               "title": "Landlord Management system (brainstorm)"
+=======
+              "title": "x. tmp notepad"
+>>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +140,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Landlord Management system (brainstorm).md",
+=======
+                "file": "x. tmp notepad.md",
+>>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -173,7 +180,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Landlord Management system (brainstorm).md",
+=======
+                "file": "Claude prompt by Arafat sir.md",
+>>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Spring (03-08-2026).md",
+                "file": "x. tmp notepad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +226,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012088,
+                  "scale": 0.7132754626224364,
                   "close": true
                 }
               },
@@ -223,7 +234,8 @@
               "title": "Local graph"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,14 +344,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b72b12f62dff3da",
+  "active": "747049de5b62166e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Project brainstorm (IsDB) main.md",
     "Class Spring (06-08-2026).md",
     "Claude prompt by Arafat sir.md",
     "Landlord Management system (brainstorm).md",
     "Resp 2.0 -  what next (proj.brStorm.isdb).md",
     "Resp. 1 (proj.brStorm.isdb).md",
+=======
+    "Claude prompt by Arafat sir.md",
+    "Class Spring (06-08-2026).md",
+    "Array (1D) in java (Cgpt).md",
+    "Reusable software.md",
+    "class uml (14-06-2026).md",
+    "Gist of UML Generalization.md",
+>>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
     "Prompt (Landlord claude).md",
     "class Spring (04-08-2026) + exam info.md",
     "Spring learning roadmap (Final draft).md",

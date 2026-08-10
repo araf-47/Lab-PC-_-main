@@ -840,7 +840,7 @@ Internally:
 [10][20][30][40]
 ```
 
-Stored continuously in memory.
+Stored ==continuously in memory==.
 
 This makes arrays fast.
 
