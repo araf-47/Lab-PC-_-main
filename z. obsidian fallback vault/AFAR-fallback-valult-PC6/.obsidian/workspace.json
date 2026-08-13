@@ -1,56 +1,24 @@
 {
   "main": {
-    "id": "1f3f7e796e875ccf",
+    "id": "515490e5c6d92dff",
     "type": "split",
     "children": [
       {
-        "id": "a19f210dfd4b3654",
+        "id": "51c8c3d72ddf0dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "747049de5b62166e",
+            "id": "798ce2cb2caaa0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x. tmp notepad.md",
+                "file": "Class Spring (13-08-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Claude prompt by Arafat sir"
-            }
-          },
-          {
-            "id": "0138e4168b3756db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Spring (06-08-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class Spring (06-08-2026)"
-            }
-          },
-          {
-            "id": "8b72b12f62dff3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landlord Management system (brainstorm).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Landlord Management system (brainstorm)"
-=======
-              "title": "x. tmp notepad"
->>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
+              "title": "Class Spring (13-08-2026)"
             }
           }
         ]
@@ -59,34 +27,36 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "83b431c555351516",
+    "id": "17ea627b544bf818",
     "type": "split",
     "children": [
       {
-        "id": "48902ff42542bebe",
+        "id": "e2d4bf27e4425b8d",
         "type": "tabs",
-        "dimension": 57.95454545454546,
+        "dimension": 59.705882352941174,
         "children": [
           {
-            "id": "03ea780d05aa95c2",
+            "id": "3d8711a6f3126dac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "4b50f98841043ddb",
+            "id": "ea7ed53639e89097",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "landlord",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +68,33 @@
             }
           },
           {
-            "id": "4397d486462d4f6f",
+            "id": "41fba03d20ba8ca2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8f6a5f9fb59b9780",
+        "type": "tabs",
+        "dimension": 40.294117647058826,
+        "children": [
+          {
+            "id": "12fed2f40b0007aa",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "go to Learning with her/Lesson 4.6 (ngClass).md",
+                "file": "Class Spring (13-08-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,65 +117,35 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.3628873693012114,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lesson 4.6 (ngClass)"
-            }
-          },
-          {
-            "id": "15d7b8eda429d05a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Landlord Management system (brainstorm).md",
-=======
-                "file": "x. tmp notepad.md",
->>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "e32fbcb21d0e9abb",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Local graph"
             }
           }
-        ],
-        "currentTab": 1
-      },
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "bf89c7516ac78261",
+    "type": "split",
+    "children": [
       {
-        "id": "f942566f98853713",
+        "id": "105c09f2cfbf0860",
         "type": "tabs",
-        "dimension": 42.04545454545455,
         "children": [
           {
-            "id": "501a9667bfa9fc53",
+            "id": "e5140ee74604cc97",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Landlord Management system (brainstorm).md",
-=======
-                "file": "Claude prompt by Arafat sir.md",
->>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
+                "file": "Class Spring (13-08-2026).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,92 +159,21 @@
             }
           },
           {
-            "id": "f03c2451ed1d3ce2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "x. tmp notepad.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224364,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Local graph"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 220.5
-  },
-  "right": {
-    "id": "a33723cf75f07d13",
-    "type": "split",
-    "children": [
-      {
-        "id": "68f0d71cdabd6205",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5d4de905fc9fd50",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "class JSP (28-06-2026).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for class JSP (28-06-2026)"
-            }
-          },
-          {
-            "id": "f56129d6ee828e90",
+            "id": "b0548cc0fc332238",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Have to learn them (must learn).md",
+                "file": "Class Spring (13-08-2026).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Have to learn them (must learn)"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "442ebbda11ee3b7d",
+            "id": "1cd947ddcbeb86d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -298,7 +188,7 @@
             }
           },
           {
-            "id": "b3ae9cb7f27f80a0",
+            "id": "0129142fd2946292",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -312,25 +202,25 @@
             }
           },
           {
-            "id": "7b2e50d066c1cc2d",
+            "id": "f6e6cb6f2cb237b2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Have to learn them (must learn).md",
+                "file": "Class Spring (13-08-2026).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Have to learn them (must learn)"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -344,45 +234,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "747049de5b62166e",
+  "active": "798ce2cb2caaa0aa",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Project brainstorm (IsDB) main.md",
-    "Class Spring (06-08-2026).md",
-    "Claude prompt by Arafat sir.md",
-    "Landlord Management system (brainstorm).md",
-    "Resp 2.0 -  what next (proj.brStorm.isdb).md",
-    "Resp. 1 (proj.brStorm.isdb).md",
-=======
-    "Claude prompt by Arafat sir.md",
-    "Class Spring (06-08-2026).md",
-    "Array (1D) in java (Cgpt).md",
-    "Reusable software.md",
-    "class uml (14-06-2026).md",
-    "Gist of UML Generalization.md",
->>>>>>> 8350ad1cb7cc6fd1600230515f0d10e9f76938ce
-    "Prompt (Landlord claude).md",
-    "class Spring (04-08-2026) + exam info.md",
-    "Spring learning roadmap (Final draft).md",
-    "Spring learning roadmap (draft 2.0) (cG re-evaluated).md",
-    "Spring Learning roadmap (draft 1) (cG).md",
-    "What is Spring (cG v1).md",
-    "virtual card (wishlist).md",
-    "Claude prompt plugin (save token).md",
-    "class Spring (03-08-2026).md",
-    "suggested claude plugin.md",
-    "How to connect Figma to claude.md",
-    "MCP server.md",
-    "class Figma (01-08-2026).md",
-    "class Spring (03-04-2026).md",
-    "class Ai (28-07-2026).md",
-    "class Ai (30-07-2026).md",
-    "pny xlr 8 price (unbelievable).md",
-    "lol.md",
-    "class Ai (26-07-2026).md",
-    "go to Learning with her/Lesson 4.6 (ngClass).md",
-    "go to Learning with her",
-    "sync.ffs_lock",
-    "Perfect balanced binary tree (example).canvas"
+    "Class Spring (13-08-2026).md",
+    "class Spring (13/08/2026).md",
+    "class Spring (13/08",
+    "class Spring (13"
   ]
 }
