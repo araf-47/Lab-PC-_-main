@@ -58,13 +58,13 @@ PostgreSQL
 
 By the end, you should be able to **understand and build a basic full-stack CRUD application using Angular + Spring Boot + PostgreSQL**.
 
----
+***
 
 # DAY 1 — SPRING CORE
 
 **Goal:** Understand what Spring actually does and why IoC, DI, Beans, and the Spring Container matter.
 
----
+***
 
 ## Session 1.1 — What is Spring?
 
@@ -91,7 +91,7 @@ You should be able to explain:
 * Microservices
 * Advanced Spring modules
 
----
+***
 
 ## Session 1.2 — IoC (Inversion of Control)
 
@@ -134,7 +134,7 @@ Repository
 
 Create a tiny example demonstrating the difference between manually creating dependencies and having Spring manage them.
 
----
+***
 
 ## Session 1.3 — Dependency Injection
 
@@ -159,7 +159,7 @@ Service
 
 and have Spring inject the Service into the Controller.
 
----
+***
 
 ## Session 1.4 — Spring Beans
 
@@ -186,7 +186,7 @@ Spring Container
 
 Create a Bean and retrieve/use it through the Spring `ApplicationContext`.
 
----
+***
 
 ## Session 1.5 — Component Scanning and Stereotype Annotations
 
@@ -217,7 +217,7 @@ Repository
 
 and observe how Spring discovers and manages them.
 
----
+***
 
 ## Session 1.6 — Configuration and `@Bean`
 
@@ -238,7 +238,7 @@ Understand:
 
 Create a Bean using `@Configuration` + `@Bean`.
 
----
+***
 
 ## Day 1 Checkpoint
 
@@ -263,13 +263,13 @@ You should be able to explain:
 * `ApplicationContext`
 * Constructor injection
 
----
+***
 
 # DAY 2 — SPRING BOOT + REST API
 
 **Goal:** Build a real Spring Boot application and REST API.
 
----
+***
 
 ## Session 2.1 — What is Spring Boot?
 
@@ -290,7 +290,7 @@ You should be able to explain:
 * Spring Boot source code
 * Advanced internals
 
----
+***
 
 ## Session 2.2 — Spring Initializr + Project Setup
 
@@ -318,7 +318,7 @@ Understand:
 
 Don't spend significant time configuring it.
 
----
+***
 
 ## Session 2.3 — Spring Boot Application
 
@@ -343,7 +343,7 @@ Understand:
 
 Do not study the internal implementation of `@SpringBootApplication`.
 
----
+***
 
 ## Session 2.4 — `application.properties`
 
@@ -362,7 +362,7 @@ server.port=8080
 
 Understand why configuration can be separated from Java code.
 
----
+***
 
 ## Session 2.5 — REST and Spring MVC Basics
 
@@ -393,7 +393,7 @@ Then:
 
 Create a simple REST controller.
 
----
+***
 
 ## Session 2.6 — Request Data
 
@@ -429,7 +429,7 @@ with JSON body
 
 → `@RequestBody`
 
----
+***
 
 ## Session 2.7 — First REST API
 
@@ -457,7 +457,7 @@ Java code
 JSON response
 ```
 
----
+***
 
 ## Session 2.8 — API Testing
 
@@ -483,7 +483,7 @@ Connect Angular later
 
 The purpose is to prevent backend problems from being confused with Angular/CORS problems.
 
----
+***
 
 ## Session 2.9 — CORS
 
@@ -505,7 +505,7 @@ Angular → Spring Boot
 
 CORS problem.
 
----
+***
 
 ## Day 2 Checkpoint
 
@@ -521,13 +521,13 @@ You should be able to:
 8. Test an API independently.
 9. Explain CORS.
 
----
+***
 
 # DAY 3 — JPA + HIBERNATE + DATABASE
 
 **Goal:** Replace JDBC-style database work with Spring Data JPA and build a real CRUD backend.
 
----
+***
 
 ## Session 3.1 — From JDBC to JPA
 
@@ -564,7 +564,7 @@ Spring Data JPA
 * What Spring Data JPA is
 * How they relate
 
----
+***
 
 ## Session 3.2 — H2 Database
 
@@ -591,7 +591,7 @@ H2
 
 This isolates learning JPA from PostgreSQL configuration.
 
----
+***
 
 ## Session 3.3 — Entities
 
@@ -621,7 +621,7 @@ Tenant
 
 entity.
 
----
+***
 
 ## Session 3.4 — DTO Concepts
 
@@ -657,7 +657,7 @@ You don't need to build a sophisticated DTO architecture yet.
 
 The full implementation will happen during Day 4.
 
----
+***
 
 ## Session 3.5 — Repositories
 
@@ -691,7 +691,7 @@ save()
 deleteById()
 ```
 
----
+***
 
 ## Session 3.6 — Service Layer
 
@@ -717,7 +717,7 @@ Repository
 Database
 ```
 
----
+***
 
 ## Session 3.7 — Complete CRUD API
 
@@ -743,7 +743,7 @@ Database
 
 At this point, you can initially work directly with the Entity where appropriate; DTO implementation comes later.
 
----
+***
 
 ## Session 3.8 — PostgreSQL
 
@@ -770,7 +770,7 @@ Hibernate
 PostgreSQL
 ```
 
----
+***
 
 ## Session 3.9 — Lombok
 
@@ -793,7 +793,7 @@ Understand that Lombok generates boilerplate code.
 
 Don't learn the entire Lombok ecosystem.
 
----
+***
 
 ## Session 3.10 — Basic Entity Relationships
 
@@ -809,7 +809,7 @@ Use your LandLord domain when useful.
 
 Don't go deeply into complicated relationship mappings.
 
----
+***
 
 ## Day 3 Checkpoint
 
@@ -841,13 +841,13 @@ DTO
 
 You should also have a functioning CRUD backend.
 
----
+***
 
 # DAY 4 — ANGULAR + SPRING BOOT FULL-STACK INTEGRATION
 
 **Goal:** Connect everything into a working Java full-stack application.
 
----
+***
 
 ## Session 4.1 — Angular `HttpClient`
 
@@ -875,7 +875,7 @@ this.http.get<Tenant[]>(
 );
 ```
 
----
+***
 
 ## Session 4.2 — Angular → Spring Boot
 
@@ -902,7 +902,7 @@ Build the integration in stages:
 3. PUT
 4. DELETE
 
----
+***
 
 ## Session 4.3 — JSON Conversion
 
@@ -959,7 +959,7 @@ JSON
 Angular
 ```
 
----
+***
 
 ## Session 4.4 — CORS in the Real Application
 
@@ -981,7 +981,7 @@ and why the browser may reject the request without proper CORS configuration.
 
 This reinforces the CORS concept learned on Day 2.
 
----
+***
 
 ## Session 4.5 — DTO Implementation + Validation
 
@@ -1036,7 +1036,7 @@ Keep validation simple.
 
 Do not spend time on advanced custom validators.
 
----
+***
 
 ## Session 4.6 — Basic Error Handling
 
@@ -1067,7 +1067,7 @@ For example:
 
 Don't go deeply into advanced exception architecture.
 
----
+***
 
 ## Session 4.7 — Final Mini Project
 
@@ -1147,7 +1147,7 @@ Final architecture:
 └──────────────┘
 ```
 
----
+***
 
 # What NOT to Study During These 4 Days
 
@@ -1193,7 +1193,7 @@ Deliberately postpone:
 
 These are future topics.
 
----
+***
 
 # Priority System
 
@@ -1256,7 +1256,7 @@ Advanced DTO patterns
 
 Everything in the "What NOT to Study" section.
 
----
+***
 
 # ⚠️ ==How to Use the Roadmap==
 
@@ -1284,6 +1284,7 @@ Conversation 20
 
 ```copy
 
+Teaching instruction:
 You are teaching me this Spring/Spring Boot session as part of a 4-day Java full-stack crash course. Teach only the topics listed in this session. Do not jump ahead into later sessions unless something absolutely requires a brief explanation. I already know Java, SQL, JDBC, JSP, HTTP basics, PostgreSQL, and I'm learning Angular, so use those as comparisons when useful. Prioritize understanding and hands-on coding over lengthy theory. After explaining a concept, give me a small practical example or exercise. Do not assume I understand Spring terminology just because I know Java. At the end, give me a short checkpoint to verify that I actually understood the lesson.
 ```
 
@@ -1293,6 +1294,7 @@ When you start a session, tell the AI:
 
 ```copy
 
+Additional rule:
 If a topic is listed as "basic understanding," don't turn it into an advanced lesson. If a topic is marked "do not study," don't teach it unless I explicitly ask.
 ```
 

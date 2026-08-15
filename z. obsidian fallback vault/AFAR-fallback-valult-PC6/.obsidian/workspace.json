@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Spring (15-08-2026).md",
+                "file": "class Spring (04-08-2026) + exam info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Spring (15-08-2026)"
+              "title": "class Spring (04-08-2026) + exam info"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
+                "file": "go to IsDB valult directly (non - editable)/Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning spring + spring boot roadmap (mashup log)"
+              "title": "Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
+                "file": "class Spring (04-08-2026) + exam info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -124,7 +123,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "8f6a5f9fb59b9780",
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
+                "file": "class Spring (04-08-2026) + exam info.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
+                "file": "class Spring (04-08-2026) + exam info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,15 +297,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "5728907960fdfbb0",
+  "active": "bf00084e93dc9425",
   "lastOpenFiles": [
+    "class Spring (03-08-2026).md",
+    "Class Spring (15-08-2026).md",
     "go to IsDB valult directly (non - editable)/Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4).md",
     "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
+    "go to IsDB valult directly (non - editable)/Session 1.1 — What is Spring.md",
+    "Claude review for Roadmap v4.md",
+    "go to IsDB valult directly (non - editable)/Copy-Pasteable Session Roadmap (V4) evaluation by cG.md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) v3 - review by Claude.md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) (v3 - Ai conv. customized).md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) Revised with Claude review..md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) cG.md",
-    "Class Spring (15-08-2026).md",
     "go to IsDB valult directly (non - editable)",
     "Spring Learning roadmap review (claude).md",
     "Class Spring (13-08-2026).md",
