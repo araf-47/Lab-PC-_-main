@@ -95,7 +95,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "8f6a5f9fb59b9780",
@@ -268,15 +269,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d8711a6f3126dac",
+  "active": "10608c2433e9215e",
   "lastOpenFiles": [
-    "class Spring (16-08-2026).md",
-    "Class Spring (17-08-2026).md",
-    "Untitled.md",
-    "class Spring (03-08-2026).md",
-    "Class Spring (15-08-2026).md",
     "go to IsDB valult directly (non - editable)/Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4).md",
     "class Spring (04-08-2026) + exam info.md",
+    "Class Spring (17-08-2026).md",
+    "class Spring (16-08-2026).md",
+    "Class Spring (13-08-2026).md",
+    "class Spring (03-08-2026).md",
+    "Class Spring (06-08-2026).md",
+    "Class Spring (15-08-2026).md",
+    "go to IsDB valult directly (non - editable)/is it constructor or function (example based learning).md",
     "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
     "go to IsDB valult directly (non - editable)/Session 1.1 — What is Spring.md",
     "Claude review for Roadmap v4.md",
@@ -287,7 +290,6 @@
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) cG.md",
     "go to IsDB valult directly (non - editable)",
     "Spring Learning roadmap review (claude).md",
-    "Class Spring (13-08-2026).md",
     "class Spring (13/08/2026).md",
     "class Spring (13/08",
     "class Spring (13"

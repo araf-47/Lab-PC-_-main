@@ -12,3 +12,9 @@ ORM stands for Object-Relational Mapping. It is a tool and programming technique
 
 - hibernate utility.
 	- service registry loads configuration files.
+
+session factory : only job is to create session.
+
+- **HQL** : hibernate query language. 
+	- starts with `from` not `select`.
+	- `query.list`.
