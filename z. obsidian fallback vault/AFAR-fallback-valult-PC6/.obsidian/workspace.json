@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0e09ccf2f0f0857",
+            "id": "6e3a771fa356018d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Is it still a dependency (java + spring)(.bVVmS).md",
+                "file": "class Spring boot (25-08-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Is it still a dependency (java + spring)(.bVVmS)"
+              "title": "class Spring boot (25-08-2026)"
             }
           },
           {
-            "id": "9af602eda882d5ef",
+            "id": "7e6d63e649c1b1ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class Spring (18-08-2026).md",
+                "file": "x. tmp notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class Spring (18-08-2026)"
+              "title": "x. tmp notepad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is it still a dependency (java + spring)(.bVVmS).md",
+                "file": "x. tmp notepad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -123,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Is it still a dependency (java + spring)(.bVVmS).md",
+                "file": "x. tmp notepad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,11 +283,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a0e09ccf2f0f0857",
+  "active": "7e6d63e649c1b1ab",
   "lastOpenFiles": [
-    "go to IsDB valult directly (non - editable)/Session 1.3 - Dependency Injection.md",
+    "class Spring boot (25-08-2026).md",
     "class Spring (18-08-2026).md",
     "Is it still a dependency (java + spring)(.bVVmS).md",
+    "go to IsDB valult directly (non - editable)/Session 1.3 - Dependency Injection.md",
     "go to IsDB valult directly (non - editable)/Spring + Spring Boot, 4-Day Crash Course (Final Copy-Pasteable Session Roadmap v4).md",
     "Class Spring (17-08-2026).md",
     "class Spring (04-08-2026) + exam info.md",
