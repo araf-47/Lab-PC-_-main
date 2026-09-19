@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "x. tmp notepad"
             }
+          },
+          {
+            "id": "428cf13b8021eca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class Android (19-09-2026).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "class Android (19-09-2026)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x. tmp notepad.md",
+                "file": "class Android (19-09-2026).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "x. tmp notepad.md",
+                "file": "class Android (19-09-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,8 +297,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e6d63e649c1b1ab",
+  "active": "428cf13b8021eca5",
   "lastOpenFiles": [
+    "x. tmp notepad.md",
+    "class Android (19-09-2026).md",
     "class Spring boot (25-08-2026).md",
     "class Spring (18-08-2026).md",
     "Is it still a dependency (java + spring)(.bVVmS).md",
