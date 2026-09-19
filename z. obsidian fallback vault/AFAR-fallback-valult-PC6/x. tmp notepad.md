@@ -7,7 +7,7 @@ Q6 : `19/25`
 [Q7](https://forms.gle/k1mU4B75obXANyn88) : `18/25`
 [Q8](https://forms.gle/iDeEbgzEkKE5XQmXA) : `16/25`
 
-info for feedback form : 8 exam
+info for feedback form : 8 exam.
 
 ### Q&A
 ## Checkpoint 🧠
