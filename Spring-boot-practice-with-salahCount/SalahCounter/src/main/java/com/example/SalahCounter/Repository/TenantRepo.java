@@ -7,5 +7,5 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * TenantRepo
  */
 public interface TenantRepo extends JpaRepository<Tenant, Integer> {
-        
+    
 }

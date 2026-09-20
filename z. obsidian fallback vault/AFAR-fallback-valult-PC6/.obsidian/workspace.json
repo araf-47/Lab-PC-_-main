@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e3a771fa356018d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Spring boot (25-08-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Spring boot (25-08-2026)"
-            }
-          },
-          {
-            "id": "7e6d63e649c1b1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "x. tmp notepad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "x. tmp notepad"
-            }
-          },
-          {
             "id": "428cf13b8021eca5",
             "type": "leaf",
             "state": {
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "class Android (19-09-2026)"
             }
+          },
+          {
+            "id": "970bf134dc09776f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java generic from ground up (ref. spring-boot repository topic)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Android (19-09-2026).md",
+                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -138,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Android (19-09-2026).md",
+                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,11 +283,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "428cf13b8021eca5",
+  "active": "970bf134dc09776f",
   "lastOpenFiles": [
-    "x. tmp notepad.md",
+    "go to Learning with her/what is generic in java (from Spring boot repository topic).md",
+    "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
     "class Android (19-09-2026).md",
+    "3-Day Intensive UML learning Mastery Plan focused entirely on System Modeling.md",
+    "class Android (20-09-2026).md",
     "class Spring boot (25-08-2026).md",
+    "x. tmp notepad.md",
     "class Spring (18-08-2026).md",
     "Is it still a dependency (java + spring)(.bVVmS).md",
     "go to IsDB valult directly (non - editable)/Session 1.3 - Dependency Injection.md",
@@ -321,10 +311,7 @@
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) v3 - review by Claude.md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) (v3 - Ai conv. customized).md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) Revised with Claude review..md",
-    "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) cG.md",
     "go to IsDB valult directly (non - editable)",
-    "Spring Learning roadmap review (claude).md",
-    "class Spring (13/08/2026).md",
     "class Spring (13/08",
     "class Spring (13"
   ]
