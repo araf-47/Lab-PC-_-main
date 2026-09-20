@@ -2,20 +2,17 @@ package com.example.SalahCounter.Controller;
 
 import java.util.List;
 
-// import org.springframework.web.bind.annotation.DeleteMapping;
-// import org.springframework.web.bind.annotation.DeleteMapping;
-// import org.springframework.web.bind.annotation.GetMapping;
-// import org.springframework.web.bind.annotation.PathVariable;
-// import org.springframework.web.bind.annotation.PostMapping;
-// import org.springframework.web.bind.annotation.PutMapping;
-// import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 // import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.SalahCounter.Entity.Tenant;
-import com.example.SalahCounter.Repository.TenantRepo;
 import com.example.SalahCounter.Service.TenantService;
 
 @RestController
@@ -27,6 +24,30 @@ public class TenantController {
         this.tenantService = tenantService;
     }
 
+    @GetMapping("/all")
+    public List<Tenant> getAllTenants() {
+        return tenantService.getAllTenants();
+    }
+
+    @GetMapping("/{id}")
+    public Tenant getTenantById(@PathVariable int id) {
+        return tenantService.getTenantById(id);
+    }
+
+    @PostMapping("/add")
+    public Tenant createTenant(@RequestBody Tenant tenant) {
+        return tenantService.createTenant(tenant);
+    }
+    
+    @PutMapping("/update")
+    public Tenant updateTenant(@RequestBody Tenant tenant) {
+        return tenantService.updateTenant(tenant);
+    }
+
+    @DeleteMapping("/delete/{id}")
+    public String deleteTenant(@PathVariable int id) {
+        return tenantService.deleteTenant(id);
+    }
     
 
 
