@@ -22,14 +22,26 @@ public class TenantService {
         return tenantRepo.findById(id).orElse(null);
     }
 
-    // this one can do both, insert & update.
+    //this one can do both, insert & update.
     public Tenant createTenant(Tenant tenant) {
         return tenantRepo.save(tenant);
     }
 
-    public Tenant updateTenant(Tenant tenant) {
-        return tenantRepo.save(tenant);
+    //updated Update method
+    public Tenant updateTenantById(int id, Tenant tenant) {
+        Tenant existingTenant = tenantRepo.findById(id).orElse(null);
+        if (existingTenant == null) {
+            return null;
+        }
+        
+        existingTenant.setId(tenant.getId());
+        existingTenant.setName(tenant.getName());
+        return tenantRepo.save(existingTenant);
     }
+
+    // public Tenant updateTenant(Tenant tenant) {
+    //     return tenantRepo.save(tenant);
+    // }
 
     public String deleteTenant(int id) {
         tenantRepo.deleteById(id);

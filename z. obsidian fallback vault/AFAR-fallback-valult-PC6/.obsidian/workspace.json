@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
+                "file": "class Android (21-09-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java generic from ground up (ref. spring-boot repository topic)"
+              "title": "class Android (21-09-2026)"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
+                "file": "class Android (21-09-2026).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
+                "file": "class Android (21-09-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,6 +285,7 @@
   },
   "active": "970bf134dc09776f",
   "lastOpenFiles": [
+    "class Android (21-09-2026).md",
     "go to Learning with her/what is generic in java (from Spring boot repository topic).md",
     "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
     "class Android (19-09-2026).md",
@@ -310,7 +311,6 @@
     "go to IsDB valult directly (non - editable)/Copy-Pasteable Session Roadmap (V4) evaluation by cG.md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) v3 - review by Claude.md",
     "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) (v3 - Ai conv. customized).md",
-    "go to IsDB valult directly (non - editable)/Learning spring and spring boot (3 to 4 days) Revised with Claude review..md",
     "go to IsDB valult directly (non - editable)",
     "class Spring (13/08",
     "class Spring (13"

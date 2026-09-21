@@ -39,9 +39,14 @@ public class TenantController {
         return tenantService.createTenant(tenant);
     }
     
-    @PutMapping("/update")
-    public Tenant updateTenant(@RequestBody Tenant tenant) {
-        return tenantService.updateTenant(tenant);
+    // @PutMapping("/update")
+    // public Tenant updateTenant(@RequestBody Tenant tenant) {
+    //     return tenantService.updateTenant(tenant);
+    // }
+
+    @PutMapping("/update/{id}")
+    public Tenant updateTenant(@PathVariable int id, @RequestBody Tenant tenant) {
+        return tenantService.updateTenantById(id, tenant);
     }
 
     @DeleteMapping("/delete/{id}")
