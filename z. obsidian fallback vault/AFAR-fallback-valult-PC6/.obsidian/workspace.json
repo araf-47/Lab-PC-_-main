@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "428cf13b8021eca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (19-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (19-09-2026)"
-            }
-          },
-          {
-            "id": "970bf134dc09776f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (21-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (21-09-2026)"
-            }
-          },
-          {
-            "id": "c2f60cb184692908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (22-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (22-09-2026)"
-            }
-          },
-          {
             "id": "f7a85b1adffd578a",
             "type": "leaf",
             "state": {
@@ -62,9 +20,37 @@
               "icon": "lucide-file",
               "title": "class Android (23-09-2026)"
             }
+          },
+          {
+            "id": "6cb30e0393c983f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class Android (24-09-2026).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "class Android (24-09-2026)"
+            }
+          },
+          {
+            "id": "8695718346066f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class Android (26-09-2026).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "class Android (26-09-2026)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Android (23-09-2026).md",
+                "file": "class Android (26-09-2026).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,10 +296,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7a85b1adffd578a",
+  "active": "8695718346066f84",
   "lastOpenFiles": [
-    "class Android (22-09-2026).md",
+    "class Android (24-09-2026).md",
+    "class Android (26-09-2026).md",
     "class Android (23-09-2026).md",
+    "class Android (22-09-2026).md",
     "class Android (21-09-2026).md",
     "go to Learning with her/what is generic in java (from Spring boot repository topic).md",
     "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
@@ -336,8 +324,6 @@
     "go to IsDB valult directly (non - editable)/is it constructor or function (example based learning).md",
     "go to IsDB valult directly (non - editable)/Learning spring + spring boot roadmap (mashup log).md",
     "go to IsDB valult directly (non - editable)/Session 1.1 — What is Spring.md",
-    "Claude review for Roadmap v4.md",
-    "go to IsDB valult directly (non - editable)/Copy-Pasteable Session Roadmap (V4) evaluation by cG.md",
     "go to IsDB valult directly (non - editable)",
     "class Spring (13/08",
     "class Spring (13"
