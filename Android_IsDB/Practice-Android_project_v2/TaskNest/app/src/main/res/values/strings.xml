@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TaskNest Dev</string>
+    <string name="app_name">TaskNest</string>
+    <string name="Welcome_m">Welcome to TaskNest</string>
+    <string name="asf">
+        Amar nam Ashfak Ali.
+        Amar nam araf.
+    </string>
+    <string name="Ali">Amar nam Ali</string>
 </resources>
