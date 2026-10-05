@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7a85b1adffd578a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (23-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (23-09-2026)"
-            }
-          },
-          {
-            "id": "6cb30e0393c983f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (24-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (24-09-2026)"
-            }
-          },
-          {
-            "id": "8695718346066f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Android (26-09-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Android (26-09-2026)"
-            }
-          },
-          {
             "id": "6b28fdee0638e426",
             "type": "leaf",
             "state": {
@@ -62,9 +20,37 @@
               "icon": "lucide-file",
               "title": "class Android (27-09-2026)"
             }
+          },
+          {
+            "id": "37d0e58f088a3583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class (05-10-2026).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "class (05-10-2026)"
+            }
+          },
+          {
+            "id": "0f88db4686fd8f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go to Learn with her/Lesson 2.2 - Component Metadata, Selector, and Standalone imports (fast, cG).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2.2 - Component Metadata, Selector, and Standalone imports (fast, cG)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class Android (22-09-2026).md",
+                "file": "go to Learn with her/Lesson 2.2 - Component Metadata, Selector, and Standalone imports (fast, cG).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -138,7 +124,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "8f6a5f9fb59b9780",
@@ -151,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "class Android (27-09-2026).md",
+                "file": "go to Learn with her/Lesson 2.2 - Component Metadata, Selector, and Standalone imports (fast, cG).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,17 +297,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b28fdee0638e426",
+  "active": "eeb39e24d0759412",
   "lastOpenFiles": [
+    "class (05-10-2026).md",
+    "go to Learn with her/Lesson 2.2 - Component Metadata, Selector, and Standalone imports (fast, cG).md",
+    "go to Learn with her/Lesson 2.1 - Components.md",
+    "go to Learn with her/Lesson 1.4 - Running the Application, Development Server & Build Process (fast, cG).md",
+    "class Android (27-09-2026).md",
+    "go to Learn with her",
+    "class Android (23-09-2026).md",
     "java MCQ.docx",
     "~$va MCQ.docx",
     "MainActivity.java",
     "MyFirebaseMessagingService.java",
     "network_security_config.xml",
     "class Android (26-09-2026).md",
-    "class Android (27-09-2026).md",
     "class Android (24-09-2026).md",
-    "class Android (23-09-2026).md",
     "class Android (22-09-2026).md",
     "class Android (21-09-2026).md",
     "go to Learning with her/what is generic in java (from Spring boot repository topic).md",
@@ -339,9 +331,6 @@
     "class Spring (16-08-2026).md",
     "Class Spring (13-08-2026).md",
     "class Spring (03-08-2026).md",
-    "Class Spring (06-08-2026).md",
-    "Class Spring (15-08-2026).md",
-    "go to IsDB valult directly (non - editable)/is it constructor or function (example based learning).md",
     "go to IsDB valult directly (non - editable)",
     "class Spring (13/08",
     "class Spring (13"

@@ -8,5 +8,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('Amar Angular App.');
+  // protected readonly title = signal('Amar Angular App.');
+  
+  name = 'Lombardini';
+  price = 610000;
 }
