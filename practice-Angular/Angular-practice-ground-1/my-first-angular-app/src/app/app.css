@@ -1,0 +1,16 @@
+img {
+  width: 169px;
+  height: auto;
+}
+
+.nameEmail-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5px;
+}
+
+.submitButton-group {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

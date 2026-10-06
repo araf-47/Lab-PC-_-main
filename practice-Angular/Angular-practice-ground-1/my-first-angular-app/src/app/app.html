@@ -12,7 +12,39 @@
 
   <hr>
 
+  <img [src]="imageUrl" alt="Product Image">
   <p>{{ name }}</p>
   <p>Price: ${{ price }}</p>  
+  <button [disabled]="isDisabled">Buy</button>
+
+  <hr>
+
+  <p>Enter your details:</p>
+
+  <div class="nameEmail-group">
+    <label for="name">Name:</label>
+    <input type="text" placeholder="Enter your name">
+    <br>
+    <label for="email">Email:</label>
+    <input type="email" placeholder="Enter your email">
+  </div>
+  <div class="submitButton-group">
+    <button>Submit</button>
+  </div>
+
+  <hr>
+
+  <h2>Event binding</h2>
+  <button (click)="onButtonClick()">Don't click me</button>
+  <button (click)="increase()">Increase</button>
+  <button (click)="reset()">Reset</button>
+  <p>Count: {{ count }}</p>
+
+  <hr>
+
+  <h2>Two-way binding</h2>
+  <input type="text" [(ngModel)]="wifeName" placeholder="Enter your wife's name">
+  <p>My wife's name is {{ wifeName }}!</p>
+
 </body>
 </html>
