@@ -1,0 +1,19 @@
+- Named parameter:
+	- `{}` inside this everything is named parameter
+	- For this one sequence doesn't matter.
+- Getter & Setter
+	- `int get getAge => this.age`
+- Inheritance
+	- (doesn't support multiple inheritance, not multiple extends or implements)
+	- extends
+		- I will get everything variable, method, etc. 
+	- implements
+		- there in not `interface` keywork in it. because every class is implicitly interface.
+		- I will not get everything, only overwrite the methods.
+		- Override is a must
+	- `mixin`
+		- I will a get a bit of multiple inheritance flavor.
+- Cascade operator
+- spread operator.
+- In Dart we can add condition before adding data to an array.
+	- Collection `if` & `for`
