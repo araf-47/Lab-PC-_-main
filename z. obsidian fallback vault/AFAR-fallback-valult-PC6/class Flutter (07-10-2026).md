@@ -17,3 +17,8 @@
 - spread operator.
 - In Dart we can add condition before adding data to an array.
 	- Collection `if` & `for`
+- Enum (learn about what is Enum) (this is same as Java).
+
+# extra
+https://www.studentoffers.co/tools
+https://www.boot.dev/try/github-education-pack
