@@ -25,10 +25,14 @@
             "id": "e56907b839d10f86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "go to IsDB valult directly (non - editable)/Antigravity CLI dangerously skip permission flag.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Antigravity CLI dangerously skip permission flag"
             }
           }
         ],
@@ -155,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go to IsDB valult directly (non - editable)/Antigravity CLI dangerously skip permission flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +282,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d8711a6f3126dac",
+  "active": "e56907b839d10f86",
   "lastOpenFiles": [
     "Go to learn with her",
     "class Flutter (07-10-2026).md",
