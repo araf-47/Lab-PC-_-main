@@ -14,3 +14,31 @@ img {
   justify-content: center;
   margin-top: 20px;
 }
+
+.body {
+  background-color: #eff5d1;
+}
+
+.passed {
+  color: green;
+}
+
+.enter-score {
+  color: chocolate;
+}
+
+.failed {
+  color: red;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}

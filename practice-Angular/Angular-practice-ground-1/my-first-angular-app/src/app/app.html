@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Homepage</title>
 </head>
-<body>
+<body class="body">
   <h1>Homepage</h1>
   <p>Welcome to the homepage!</p>
   <p>This is a simple Angular app. So don't expect too much!</p>
@@ -45,6 +45,58 @@
   <h2>Two-way binding</h2>
   <input type="text" [(ngModel)]="wifeName" placeholder="Enter your wife's name">
   <p>My wife's name is {{ wifeName }}!</p>
+
+  <hr>
+
+  <h2>If statement</h2>
+  <label for="score">Enter your math score: </label>
+  <input type="number" [(ngModel)]="mathScore" placeholder="Enter your score (0-100)">
+  @if (mathScore >= 50) {
+    <p class="passed">You passed!</p>
+  } @else if (mathScore === 0) {
+    <p class="enter-score">Please enter a score!</p>
+  } @else {
+    <p class="failed">You failed!</p>
+  }
+
+  <hr>
+
+  <h2>For loop</h2>
+  <p>Here are some digital devices:</p>
+  <ul>
+    @for (device of digitalDevices; track device; let index = $index) {
+      <li>{{index + 1}}: {{ device }}.</li>
+    }
+  </ul>
+
+  <p>Here are some fruits:</p>
+  <ul>
+    @for (fruit of fruits; track fruit.id) {
+      <li>{{ fruit.name }}</li>
+    }
+  </ul>
+
+  <hr>
+
+  <h2>Switch statement</h2>
+  <label for="color">Enter your favorite color: </label>
+  <input type="text" [(ngModel)]="favoriteColor" placeholder="red/blue/green">
+  @switch (favoriteColor) {
+    @case ('red') {
+      <p class="red">Red symbolizes passion and energy!</p>
+    }
+    @case ('blue') {
+      <p class="blue">Blue represents tranquility and trust!</p>
+    }
+    @case ('green') {
+      <p class="green">Green symbolizes nature and growth!</p>
+    }
+    @default {
+      <p>Choose a valid color! (red/blue/green)</p>
+    }
+  }
+
+  
 
 </body>
 </html>

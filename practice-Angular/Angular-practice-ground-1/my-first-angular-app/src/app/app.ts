@@ -34,4 +34,25 @@ export class App {
   
   //two-way binding
   wifeName = '';
+
+  // if statement
+  mathScore: number = 0;
+
+  // @for loop
+  digitalDevices = ['mobile', 'tablet', 'laptop', 'desktop', 'smartwatch', 'smartphone', 'tv'];
+  fruits = [
+    {id: 1, name: 'apple'},
+    {id: 2, name: 'banana'},
+    {id: 3, name: 'orange'},
+    {id: 4, name: 'grape'},
+    {id: 5, name: 'strawberry'},
+    {id: 6, name: 'blueberry'},
+    {id: 7, name: 'raspberry'}
+  ];
+
+  // @switch statement
+  favoriteColor = '';
+
+  
+
 }
