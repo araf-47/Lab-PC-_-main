@@ -1,3 +1,25 @@
 <p>about works!</p>
 
-<h2>ngClass</h2>
+<h2>signal example</h2>
+<p>Count: {{ count() }}</p>
+<button (click)="increase()">Increase</button>
+<button (click)="reset()">Reset</button>
+
+<h3>Signal can contain not only numbers but booleans too</h3>
+@if (isLoggedIn() === null){
+    <p class="not-logged-in">You are not logged in</p>
+}
+@else if (isLoggedIn() === true) {
+    <p class="logged-in">You are logged in</p>
+} @else {
+    <p class="logged-out">You are logged out</p>
+}
+<button (click)="toggleLogin()">Login</button>
+<button (click)="toggleLogout()">Logout</button>
+
+<hr>
+
+<h2>normal count example</h2>
+<p>Count: {{ normalCount }}</p>
+<button (click)="increaseNormal()">Increase</button>
+<button (click)="resetNormal()">Reset</button>

@@ -1,0 +1,11 @@
+.logged-in {
+    color: green;
+}
+
+.not-logged-in {
+    color: chocolate;
+}
+
+.logged-out {
+    color: red;
+}
