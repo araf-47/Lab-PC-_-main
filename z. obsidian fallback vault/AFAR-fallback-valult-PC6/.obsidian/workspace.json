@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebf6fc20982d69f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class Flutter (07-10-2026).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class Flutter (07-10-2026)"
-            }
-          },
-          {
             "id": "03a77537c88dd1e2",
             "type": "leaf",
             "state": {
@@ -34,9 +20,51 @@
               "icon": "lucide-file",
               "title": "Lesson 5.1 - What Is a Signal, and Why Does It Exist"
             }
+          },
+          {
+            "id": "b1450d9a5dc703fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bookmarks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "74cdbe01c006d601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning math plan with ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning math plan with ai"
+            }
+          },
+          {
+            "id": "32730a4734b9aab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiz exam 13-10-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quiz exam 13-10-2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go to learn with her/Lesson 5.1 - What Is a Signal, and Why Does It Exist.md",
+                "file": "Quiz exam 13-10-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go to learn with her/Lesson 5.1 - What Is a Signal, and Why Does It Exist.md",
+                "file": "Quiz exam 13-10-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,11 +312,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "03a77537c88dd1e2",
+  "active": "32730a4734b9aab6",
   "lastOpenFiles": [
-    "Go to learn with her/Lesson 4.5 - Legacy Reference ngIf, ngFor, ngSwitch, and Migration (Angular, fast, cG).md",
+    "Quiz exam 13-10-2026.md",
     "Go to learn with her/Lesson 5.1 - What Is a Signal, and Why Does It Exist.md",
     "class Flutter (07-10-2026).md",
+    "Bookmarks.md",
+    "learning math plan with ai.md",
+    "Go to learn with her/Lesson 4.5 - Legacy Reference ngIf, ngFor, ngSwitch, and Migration (Angular, fast, cG).md",
     "go to IsDB valult directly (non - editable)/Antigravity CLI dangerously skip permission flag.md",
     "Lesson 4.3 - @switch, @case, and @default (Angular, fast, cG).md",
     "Go to learn with her",
@@ -317,9 +348,6 @@
     "go to Learning with her/what is generic in java (from Spring boot repository topic).md",
     "go to Learning with her/Java generic from ground up (ref. spring-boot repository topic).md",
     "class Android (19-09-2026).md",
-    "3-Day Intensive UML learning Mastery Plan focused entirely on System Modeling.md",
-    "class Android (20-09-2026).md",
-    "class Spring boot (25-08-2026).md",
     "go to IsDB valult directly (non - editable)",
     "class Spring (13/08"
   ]
