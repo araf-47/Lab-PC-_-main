@@ -14,6 +14,10 @@ export class About {
 
   increase() {
     this.count.update(value => value + 1);
+    // this.count.set(47);
+  }
+  decrease() {
+    this.count.update(value => value - 1);
   }
   reset() {
     this.count.set(0);
