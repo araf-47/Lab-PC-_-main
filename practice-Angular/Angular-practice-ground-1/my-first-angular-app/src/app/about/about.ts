@@ -1,8 +1,9 @@
-import { Component } from '@angular/core';
+import { computed, Component } from '@angular/core';
 import { signal } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 @Component({
-  imports: [],
+  imports: [FormsModule],
   selector: 'app-about',
   styleUrl: './about.css',
   templateUrl: './about.html',
@@ -39,5 +40,10 @@ export class About {
   toggleLogout() {
     this.isLoggedIn.set(false);
   }
+
+  // Computed signal example
+  price = signal(0);
+  quantity = signal(0);
+  total = computed(() => this.price() * this.quantity());
 
 }

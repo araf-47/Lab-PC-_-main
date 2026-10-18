@@ -23,3 +23,12 @@
 <p>Count: {{ normalCount }}</p>
 <button (click)="increaseNormal()">Increase</button>
 <button (click)="resetNormal()">Reset</button>
+
+<hr>
+
+<h2>computed signal example</h2>
+<input type="number" [(ngModel)]="price" placeholder="Price">
+<p>Price: {{ price() }}</p>
+<input type="number" [(ngModel)]="quantity" placeholder="Quantity">
+<p>Quantity: {{ quantity() }}</p>
+<p>Total: {{ total() }} tk</p>
