@@ -1,0 +1,18 @@
+<div class="product-card">
+  <!-- Product Image with Badge -->
+  <div class="image-container">
+    <img [src]="productImage()" [alt]="productName()" />
+    <span class="badge">New</span>
+  </div>
+
+  <!-- Product Details -->
+  <div class="content">
+    <h3 class="title">{{ productName() }}</h3>
+    <p class="description">{{ productDescription() }}</p>
+    
+    <div class="footer">
+      <span class="price">${{ productPrice() }}</span>
+      <button class="buy-btn" type="button" (click)="alart()">Add to Cart</button>
+    </div>
+  </div>
+</div>

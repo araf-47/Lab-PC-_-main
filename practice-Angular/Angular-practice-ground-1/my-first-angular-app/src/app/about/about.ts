@@ -1,5 +1,4 @@
-import { computed, Component } from '@angular/core';
-import { signal } from '@angular/core';
+import { computed, Component, effect, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 @Component({
@@ -48,6 +47,14 @@ export class About {
   // Computed signal example
   price = signal(0);
   quantity = signal(0);
-  total = computed(() => this.price() * this.quantity());
 
+  total = computed(() => this.price() * this.quantity());
+  dicountedTotal = computed(() => (this.total() - (this.total() * 10) / 100));
+
+  //effect example
+  constructor() {
+    effect(() => {
+      console.log('Price changed:', this.price());
+    });
+  }
 }
