@@ -12,6 +12,10 @@ export class ProductCard {
   productImage = input('unknown.jpg');
   productDescription = input('No description available');
 
+  isProductNew = input(false);
+  isProductHotSale = input(false);
+  isProductSale = input(false);
+
   alart(){
     alert('🖕 Fuck you');
   }

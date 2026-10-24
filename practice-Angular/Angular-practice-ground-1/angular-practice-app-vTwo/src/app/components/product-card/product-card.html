@@ -2,7 +2,15 @@
   <!-- Product Image with Badge -->
   <div class="image-container">
     <img [src]="productImage()" [alt]="productName()" />
-    <span class="badge">New</span>
+    @if (isProductNew()) {
+      <span class="new">New</span>
+    } @else if (isProductHotSale()) {
+      <span class="hot-sale">Hot Sale</span>
+    } @else if (isProductSale()) {
+      <span class="sale">Sale</span>
+    } @else {
+      <span class="badge">Regular</span>
+    }
   </div>
 
   <!-- Product Details -->

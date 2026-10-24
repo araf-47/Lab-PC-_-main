@@ -48,6 +48,48 @@
   letter-spacing: 0.5px;
 }
 
+.hot-sale {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #f81d0d;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.sale {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #f5dc00;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.new {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #2cff02;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .content {
   padding: 20px;
 }
